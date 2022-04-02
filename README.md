@@ -1,2 +1,2 @@
 # Flappy
-Projeto do jogo flappy bird em react native
+Projeto simples do jogo Flappy Bird para treinar react native.
